@@ -19,3 +19,4 @@ function fizzBuzz(limit) {
 
 // Print numbers from 1 to 20 using the FizzBuzz algorithm
 fizzBuzz(20);
+

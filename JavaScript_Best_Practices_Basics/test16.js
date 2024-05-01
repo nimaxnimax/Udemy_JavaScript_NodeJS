@@ -29,3 +29,4 @@ console.log("50 GBP to USD:", convertCurrency(50, "GBP", "USD") + " USD");
 
 // Convert 2000 JPY to EUR
 console.log("2000 JPY to EUR:", convertCurrency(2000, "JPY", "EUR") + " EUR");
+

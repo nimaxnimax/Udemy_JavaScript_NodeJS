@@ -18,3 +18,4 @@ console.log("Is Valid:", validateEmail(email1));
 
 console.log("Email:", email2);
 console.log("Is Valid:", validateEmail(email2));
+

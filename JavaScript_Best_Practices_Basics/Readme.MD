@@ -178,11 +178,11 @@ When you open this HTML file in a web browser and open the browser's developer t
 
 Test2
 
+**********
+
 Title: "Variable Printing in Node.js"
 
 Explanation: This Node.js script demonstrates how to declare a variable, assign it a value, and print its value to the console.
-
-How to Run: Save the code below to a file with a `.js` extension (e.g., `variable.js`). Then, open a terminal or command prompt, navigate to the directory containing the JavaScript file, and run the file using the `node` command (`node variable.js`).
 
 Example Node.js Code:
 ```javascript
@@ -210,11 +210,11 @@ Explanation:
 
 Test3
 
+**********
+
 Title: "Variable Operation in Node.js"
 
 Explanation: This Node.js script demonstrates how to declare variables for numbers, perform arithmetic operations with them, and print the results to the console.
-
-How to Run: Save the code below to a file with a `.js` extension (e.g., `operation.js`). Then, open a terminal or command prompt, navigate to the directory containing the JavaScript file, and run the file using the `node` command (`node operation.js`).
 
 Example Node.js Code:
 ```javascript
@@ -253,11 +253,11 @@ Explanation:
 
 Test4
 
+**********
+
 Title: "Temperature Conversion in JavaScript"
 
 Explanation: This JavaScript code converts a temperature from Celsius to Fahrenheit using a simple formula and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -289,11 +289,11 @@ Explanation:
 
 Test5
 
+**********
+
 Title: "Simple Interest Calculation in JavaScript"
 
 Explanation: This JavaScript code calculates the simple interest based on the principal amount, interest rate, and time period provided, and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -329,11 +329,11 @@ Explanation:
 
 Test6
 
+**********
+
 Title: "Countdown Timer in JavaScript"
 
 Explanation: This JavaScript code creates a simple countdown timer that counts down from a specified number of seconds and prints the remaining time to the console every second until it reaches zero.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -372,11 +372,11 @@ Explanation:
 
 Test7
 
+**********
+
 Title: "Random Number Generator in JavaScript"
 
 Explanation: This JavaScript code generates a random number between a specified range and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -411,11 +411,11 @@ Explanation:
 
 Test8
 
+**********
+
 Title: "Palindrome Checker in JavaScript"
 
 Explanation: This JavaScript code checks if a given string is a palindrome (reads the same forwards and backwards) and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -456,11 +456,11 @@ Explanation:
 
 Test9
 
+**********
+
 Title: "Factorial Calculator in JavaScript"
 
 Explanation: This JavaScript code calculates the factorial of a given non-negative integer and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -501,11 +501,11 @@ Explanation:
 
 Test10
 
+**********
+
 Title: "FizzBuzz Algorithm in JavaScript"
 
 Explanation: This JavaScript code implements the FizzBuzz algorithm, which prints numbers from 1 to a specified limit, replacing multiples of 3 with "Fizz", multiples of 5 with "Buzz", and multiples of both 3 and 5 with "FizzBuzz".
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -546,11 +546,11 @@ Explanation:
 
 Test11
 
+**********
+
 Title: "Array Sum Calculator in JavaScript"
 
 Explanation: This JavaScript code calculates the sum of all elements in an array of numbers and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -587,11 +587,11 @@ Explanation:
 
 Test12
 
+**********
+
 Title: "Email Validation in JavaScript"
 
 Explanation: This JavaScript code validates an email address using a regular expression and prints whether the email address is valid or not to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -631,11 +631,11 @@ Explanation:
 
 Test13
 
+**********
+
 Title: "Shopping Cart Total Calculator in JavaScript"
 
 Explanation: This JavaScript code calculates the total cost of items in a shopping cart by summing up their prices, including any applicable discounts, and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -679,11 +679,11 @@ Explanation:
 
 Test14
 
+**********
+
 Title: "Password Strength Checker in JavaScript"
 
 Explanation: This JavaScript code checks the strength of a password based on predefined criteria and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -762,11 +762,11 @@ Explanation:
 
 Test15
 
+**********
+
 Title: "Simple To-Do List App in JavaScript"
 
 Explanation: This JavaScript code implements a simple To-Do list application where users can add, remove, and display tasks.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -847,11 +847,11 @@ Explanation:
 
 Test16
 
+**********
+
 Title: "Currency Converter in JavaScript"
 
 Explanation: This JavaScript code converts an amount from one currency to another based on predefined exchange rates and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -904,11 +904,11 @@ Explanation:
 
 Test17
 
+**********
+
 Title: "Temperature Converter in JavaScript"
 
 Explanation: This JavaScript code converts temperatures between Celsius, Fahrenheit, and Kelvin scales and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -967,11 +967,11 @@ Explanation:
 
 Test18
 
+**********
+
 Title: "Simple Calculator in JavaScript"
 
 Explanation: This JavaScript code implements a simple calculator that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division on two numbers provided by the user.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1026,11 +1026,11 @@ Explanation:
 
 Test19
 
+**********
+
 Title: "Vowel Counter in JavaScript"
 
 Explanation: This JavaScript code counts the number of vowels (a, e, i, o, u) in a given string and prints the count to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1076,11 +1076,11 @@ Explanation:
 
 Test20
 
+**********
+
 Title: "Temperature Converter with Function and if-else in JavaScript"
 
 Explanation: This JavaScript code converts temperature from Celsius to Fahrenheit or Fahrenheit to Celsius based on user input using a function with if-else statements, and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1127,11 +1127,11 @@ Explanation:
 
 Test21
 
+**********
+
 Title: "Sum of Numbers using Function and Loop in JavaScript"
 
 Explanation: This JavaScript code calculates the sum of all numbers from 1 to a given positive integer using a function with a loop, and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1169,11 +1169,11 @@ Explanation:
 
 Test22
 
+**********
+
 Title: "Countdown using While Loop in JavaScript"
 
 Explanation: This JavaScript code demonstrates a countdown from a given positive integer to 1 using a while loop. It prints each number in the countdown to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1210,11 +1210,11 @@ Explanation:
 
 Test23
 
+**********
+
 Title: "Sum of Numbers using For Loop in JavaScript"
 
 Explanation: This JavaScript code calculates the sum of all numbers from 1 to a given positive integer using a for loop. It prints the sum to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1252,11 +1252,11 @@ Explanation:
 
 Test24
 
+**********
+
 Title: "Countdown using Do-While Loop in JavaScript"
 
 Explanation: This JavaScript code demonstrates a countdown from a given positive integer to 1 using a do-while loop. It prints each number in the countdown to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1294,11 +1294,11 @@ Explanation:
 
 Test25
 
+**********
+
 Title: "Grade Checker with if-else-if in JavaScript"
 
 Explanation: This JavaScript code checks the grade based on a given numerical score using if-else-if statements and prints the corresponding grade to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1354,11 +1354,11 @@ Explanation:
 
 Test26
 
+**********
+
 Title: "Data Type Checker in JavaScript"
 
 Explanation: This JavaScript code checks the data type of a given value using if-else-if statements and prints the result to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1438,11 +1438,11 @@ Explanation:
 
 Test27
 
+**********
+
 Title: "Voting Eligibility Checker in JavaScript"
 
 Explanation: This JavaScript code checks if a person is eligible to vote based on their age using a boolean variable and if-else statements. It prints whether the person is eligible to vote to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1482,11 +1482,11 @@ Explanation:
 
 Test28
 
+**********
+
 Title: "Username Validator in JavaScript"
 
 Explanation: This JavaScript code validates a username based on certain criteria using string manipulation and boolean checks. It prints whether the username is valid or not to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1534,11 +1534,11 @@ Explanation:
 
 Test29
 
+**********
+
 Title: "Day of the Week Identifier using Switch Statement in JavaScript"
 
 Explanation: This JavaScript code identifies the day of the week based on a given number (1 for Sunday, 2 for Monday, etc.) using a switch statement. It prints the corresponding day to the console.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1600,11 +1600,11 @@ Explanation:
 
 Test30
 
+**********
+
 Title: "Sum of Two Numbers Function in JavaScript"
 
 Explanation: This JavaScript code defines a function that takes two numbers as parameters, calculates their sum, and returns the result.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1641,11 +1641,11 @@ Explanation:
 
 Test31
 
+**********
+
 Title: "Array Operations in JavaScript"
 
 Explanation: This JavaScript code demonstrates various operations on arrays including adding elements, deleting elements, and manipulating array elements.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1722,11 +1722,11 @@ Explanation:
 
 Test32
 
+**********
+
 Title: "Object Operations in JavaScript"
 
 Explanation: This JavaScript code demonstrates various operations on objects including creating objects, accessing properties, adding properties, deleting properties, and iterating over object properties.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1784,11 +1784,11 @@ Explanation:
 
 Test33
 
+**********
+
 Title: "Asynchronous Operations with Async/Await in JavaScript"
 
 Explanation: This JavaScript code demonstrates asynchronous operations using async/await syntax to fetch data from a mock API endpoint.
-
-How to Run: Copy the code below and paste it into a JavaScript environment, such as a browser console or a Node.js script.
 
 Example JavaScript Code:
 ```javascript
@@ -1841,11 +1841,11 @@ Explanation:
 
 Test34
 
+**********
+
 Title: "Reading a File in Node.js"
 
 Explanation: This Node.js code demonstrates how to read the contents of a file using the `fs` module.
-
-How to Run: Save the code as a .js file and run it using Node.js. Ensure Node.js is installed on your machine.
 
 Example JavaScript Code:
 ```javascript
@@ -1893,11 +1893,11 @@ Ensure that the file path provided (`example.txt` in this case) points to an exi
 
 Test35
 
+**********
+
 Title: "Storing Data in a File in Node.js"
 
 Explanation: This Node.js code demonstrates how to store data in a file by writing to it using the `fs` module.
-
-How to Run: Save the code as a .js file and run it using Node.js. Ensure Node.js is installed on your machine.
 
 Example JavaScript Code:
 ```javascript
@@ -1958,11 +1958,11 @@ Ensure that the file path provided (`data.json` in this case) specifies the loca
 
 Test36
 
+**********
+
 Title: "Checking Response Code of a Website in Node.js"
 
 Explanation: This Node.js code demonstrates fetching data from a server (google.com) and checking the response code using the `http` module.
-
-How to Run: Save the code as a .js file and run it using Node.js. Ensure Node.js is installed on your machine.
 
 Example JavaScript Code:
 ```javascript
@@ -2026,4 +2026,7 @@ Explanation:
 6. The response code is resolved if the request is successful.
 7. Error handling is implemented to catch request errors and handle timeouts.
 8. Finally, a usage example demonstrates checking the response code of google.com using the `checkResponseCode` function, and the result is logged to the console. If an error occurs, it is caught and logged as well.
+
+
+**********
 

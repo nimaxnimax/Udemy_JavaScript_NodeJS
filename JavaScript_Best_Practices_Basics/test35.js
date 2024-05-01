@@ -35,3 +35,4 @@ storeDataToFile(filePath, exampleData)
     .catch((error) => {
         console.error('An error occurred while storing data in the file:', error);
     });
+

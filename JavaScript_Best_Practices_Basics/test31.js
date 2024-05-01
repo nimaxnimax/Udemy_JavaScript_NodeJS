@@ -49,3 +49,4 @@ console.log("Array after inserting element at index 2:", numbers);
 var moreNumbers = [7, 8, 9];
 var combinedArray = numbers.concat(moreNumbers); // Concatenate numbers and moreNumbers arrays
 console.log("Combined array:", combinedArray);
+

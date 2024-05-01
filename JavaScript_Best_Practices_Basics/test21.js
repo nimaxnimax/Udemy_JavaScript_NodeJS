@@ -14,3 +14,4 @@ function sumOfNumbers(n) {
 // Test the sumOfNumbers function with example input
 var num = 10; // Example positive integer
 console.log("Sum of numbers from 1 to", num + ":", sumOfNumbers(num)); // Print the result
+

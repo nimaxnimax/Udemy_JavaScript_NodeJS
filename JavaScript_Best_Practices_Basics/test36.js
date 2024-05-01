@@ -46,3 +46,4 @@ checkResponseCode(url)
     .catch((error) => {
         console.error('An error occurred:', error);
     });
+

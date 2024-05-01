@@ -12,3 +12,4 @@ var randomNumber = generateRandomNumber(1, 100);
 
 // Print the generated random number to the console
 console.log("Random Number:", randomNumber);
+

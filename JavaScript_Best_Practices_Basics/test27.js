@@ -18,3 +18,4 @@ var age2 = 16; // Example age (not eligible to vote)
 
 checkVotingEligibility(age1);
 checkVotingEligibility(age2);
+

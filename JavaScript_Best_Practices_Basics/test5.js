@@ -15,3 +15,4 @@ console.log("Principal Amount: $" + principal);
 console.log("Interest Rate: " + rate + "%");
 console.log("Time Period: " + time + " years");
 console.log("Simple Interest: $" + interest);
+

@@ -11,3 +11,4 @@ var fahrenheit = (celsius * 9/5) + 32;
 // Print the result of temperature conversion to the console
 console.log("Temperature in Celsius:", celsius);
 console.log("Temperature in Fahrenheit:", fahrenheit);
+

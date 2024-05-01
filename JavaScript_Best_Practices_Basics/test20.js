@@ -23,3 +23,4 @@ if (unit === "C") {
 } else {
     console.log("Invalid temperature unit. Please use 'C' for Celsius or 'F' for Fahrenheit.");
 }
+

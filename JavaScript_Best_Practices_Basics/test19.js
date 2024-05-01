@@ -22,3 +22,4 @@ var str3 = "JavaScript";
 console.log("\"" + str1 + "\" contains", countVowels(str1), "vowels.");
 console.log("\"" + str2 + "\" contains", countVowels(str2), "vowels.");
 console.log("\"" + str3 + "\" contains", countVowels(str3), "vowels.");
+

@@ -38,3 +38,4 @@ getDayOfWeek(1); // Example day number (Sunday)
 getDayOfWeek(3); // Example day number (Tuesday)
 getDayOfWeek(6); // Example day number (Friday)
 getDayOfWeek(8); // Example invalid day number
+

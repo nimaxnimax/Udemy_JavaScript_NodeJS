@@ -14,3 +14,4 @@ function countdown(n) {
 var num = 5; // Example positive integer
 console.log("Countdown from", num + ":");
 countdown(num); // Call the function to perform the countdown
+

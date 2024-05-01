@@ -33,3 +33,4 @@ console.log("Iterating over object properties:");
 for (var key in person) {
     console.log(key + ":", person[key]);
 }
+

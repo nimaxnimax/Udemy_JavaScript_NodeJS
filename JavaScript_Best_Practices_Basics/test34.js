@@ -24,3 +24,4 @@ readFile(filePath)
     .catch((error) => {
         console.error('An error occurred while reading the file:', error);
     });
+

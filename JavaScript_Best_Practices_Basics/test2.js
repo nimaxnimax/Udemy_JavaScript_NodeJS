@@ -7,3 +7,4 @@ var message = "Hello, World!";
 
 // Print the value of the 'message' variable to the console
 console.log("Message:", message);
+

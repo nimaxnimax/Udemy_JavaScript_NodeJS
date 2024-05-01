@@ -21,3 +21,4 @@ var cartItems = [
 // Calculate and print the total cost of items in the shopping cart
 console.log("Shopping Cart Items:", cartItems);
 console.log("Total Cost:", calculateTotal(cartItems));
+

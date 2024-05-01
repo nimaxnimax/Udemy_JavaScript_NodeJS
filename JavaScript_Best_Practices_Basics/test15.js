@@ -51,3 +51,4 @@ console.log("Task removed at index 1");
 
 // Display the updated list of tasks
 displayTasks();
+

@@ -13,3 +13,4 @@ var number1 = 5; // Example number
 var number2 = 10; // Example number
 var result = calculateSum(number1, number2); // Call the function with the example numbers and store the result
 console.log("Sum of", number1, "and", number2, "is:", result); // Print the result
+

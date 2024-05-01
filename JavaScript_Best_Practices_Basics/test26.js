@@ -50,3 +50,4 @@ checkDataType(value6);
 
 console.log("Value:", value7);
 checkDataType(value7);
+

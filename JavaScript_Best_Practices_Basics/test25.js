@@ -30,3 +30,4 @@ checkGrade(score2);
 
 console.log("Score:", score3);
 checkGrade(score3);
+

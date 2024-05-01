@@ -23,3 +23,4 @@ var username3 = "usr"; // Example invalid username (too short)
 validateUsername(username1);
 validateUsername(username2);
 validateUsername(username3);
+
