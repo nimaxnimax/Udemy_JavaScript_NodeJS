@@ -131,6 +131,36 @@ To install Node.js using the Node.js Installer:
 
 After installing both VSCode and Node.js, you'll have a powerful development environment for writing, debugging, and running JavaScript code, whether it's for frontend web development with browsers or backend development with Node.js.
 
+**********
+**********
+
+How to Install on Linux?!
+
+To install Node.js and npm on Ubuntu, CentOS, and Red Hat, you can use the package manager specific to each distribution. Here are the commands:
+
+### Ubuntu:
+
+```bash
+sudo apt update
+sudo apt install nodejs npm
+```
+
+### CentOS & Red Hat:
+
+```bash
+sudo yum install epel-release
+sudo yum install nodejs npm
+```
+
+After running these commands, Node.js and npm should be installed on your system. You can verify the installation by checking the versions:
+
+```bash
+node -v
+npm -v
+```
+
+These commands will display the installed versions of Node.js and npm respectively.
+
 
 **********
 
