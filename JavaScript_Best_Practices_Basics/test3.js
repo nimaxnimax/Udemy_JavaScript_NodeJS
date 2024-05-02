@@ -17,4 +17,3 @@ console.log("Sum:", sum);
 console.log("Difference:", difference);
 console.log("Product:", product);
 console.log("Quotient:", quotient);
-

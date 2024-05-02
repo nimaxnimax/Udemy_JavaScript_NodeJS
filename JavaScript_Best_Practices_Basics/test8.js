@@ -19,3 +19,4 @@ var testString2 = "Hello, World!";
 console.log("Is \"" + testString1 + "\" a palindrome?", isPalindrome(testString1));
 console.log("Is \"" + testString2 + "\" a palindrome?", isPalindrome(testString2));
 
+

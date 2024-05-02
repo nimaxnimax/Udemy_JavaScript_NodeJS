@@ -53,3 +53,4 @@ console.log("Strength:", checkPasswordStrength(password2));
 console.log("Password:", password3);
 console.log("Strength:", checkPasswordStrength(password3));
 
+

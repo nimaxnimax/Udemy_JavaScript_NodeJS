@@ -18,3 +18,4 @@ function startTimer(seconds) {
 // Start the countdown timer with 10 seconds
 startTimer(10);
 
+

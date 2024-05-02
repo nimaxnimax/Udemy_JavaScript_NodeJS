@@ -4,7 +4,9 @@
 
 // Declare a variable named 'message' and assign it the value "Hello, World!"
 var message = "Hello, World!";
+var name = "Adrian";
 
 // Print the value of the 'message' variable to the console
 console.log("Message:", message);
+console.log(name);
 

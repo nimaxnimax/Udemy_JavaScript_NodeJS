@@ -19,4 +19,3 @@ var num3 = 10;
 console.log("Factorial of", num1 + ":", factorial(num1));
 console.log("Factorial of", num2 + ":", factorial(num2));
 console.log("Factorial of", num3 + ":", factorial(num3));
-

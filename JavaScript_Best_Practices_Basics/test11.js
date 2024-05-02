@@ -15,4 +15,3 @@ function arraySum(arr) {
 var numbers = [5, 10, 15, 20, 25];
 console.log("Array:", numbers);
 console.log("Sum of Array Elements:", arraySum(numbers));
-
